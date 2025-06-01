@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# PyTorch model files and logs
+*.pth
+*.pt
+*.log
+
+# VS Code settings
+.vscode/
+
+# Ignore all contents inside the data folder, but keep folder
+data/*
+!data/.gitkeep
+
+# System files
+.DS_Store
+Thumbs.db
