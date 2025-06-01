@@ -7,7 +7,7 @@
 
 <br />
 <div align="center">
-  <img src="images/logo.png" alt="Drug Repurposing Discovery Logo" width="200" height="200">
+  <img src="images/logo2.png" alt="Drug Repurposing Discovery Logo" width="200" height="200">
   <h3 align="center">Drug Repurposing Discovery with Graph Neural Nets</h3>
   <p align="center">
     A project to identify potential drug-disease interactions using Graph Neural Networks on the DRKG dataset.
