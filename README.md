@@ -46,7 +46,7 @@ The Drug Repurposing Discovery project utilizes graph neural networks to predict
    ```bash
    git clone https://github.com/maurilaparva/drug-repurposing-gnn.git
    cd drug-repurposing-gnn
-````
+    ````
 
 2. Download the DRKG dataset from the [GitHub repository](https://github.com/gnn4dr/DRKG) and place the following files in the `data/` directory:
 
